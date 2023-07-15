@@ -1,6 +1,8 @@
 # revealjs_gy
 
-<img align="center" alt="reveljs" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/2396ee50-8668-4af4-bac9-35750d139858" />
+<p align="center">
+<img src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/2396ee50-8668-4af4-bac9-35750d139858" />
+</p>
 
 # THE HTML PRESENTATION FRAMEWORK
 
